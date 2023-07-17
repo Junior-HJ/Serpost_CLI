@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Para consultar el estado de un envío, ejecuta el script `main.py` seguido del número de seguimiento:
 
 ```
-python mi_script.py -t 8499449
+python main.py -t 8499449
 ```
 
 Reemplaza `8499449` con el número de seguimiento real que deseas consultar.
@@ -54,4 +54,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor, cr
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Revisa el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta [MIT](https://choosealicense.com/licenses/mit/) para más detalles.
