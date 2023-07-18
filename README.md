@@ -41,6 +41,8 @@ Reemplaza `8499449` con el número de seguimiento real que deseas consultar.
 
 <img src="_images/usage.png" alt="Captura de pantalla de la aplicación en ejecución" width="600"/>
 
+**Dame una ⭐ si te gusta este proyecto😜!**
+
 ## Estructura del proyecto
 
 El proyecto sigue una estructura de carpetas MVC (Modelo-Vista-Controlador) para mantener una separación clara de responsabilidades.
@@ -56,6 +58,6 @@ El proyecto sigue una estructura de carpetas MVC (Modelo-Vista-Controlador) para
 
 Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor, crea un *issue* para discutir las mejoras propuestas y luego realiza un *pull request* con tus cambios.
 
-## Licencia
+## Licencia © [Junior-HJ](https://www.linkedin.com/in/shilariojara/)
 
 Este proyecto está bajo la Licencia Apache 2.0. Revisa el [LICENSE](LICENSE) para más detalles.
