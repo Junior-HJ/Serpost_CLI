@@ -37,6 +37,10 @@ python main.py -t 8499449
 
 Reemplaza `8499449` con el número de seguimiento real que deseas consultar.
 
+> Captura de pantalla de la aplicación en ejecución.
+
+<img src="_pics/usage.png" alt="Captura de pantalla de la aplicación en ejecución" width="600"/>
+
 ## Estructura del proyecto
 
 El proyecto sigue una estructura de carpetas MVC (Modelo-Vista-Controlador) para mantener una separación clara de responsabilidades.
@@ -54,4 +58,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor, cr
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta [MIT](https://choosealicense.com/licenses/mit/) para más detalles.
+Este proyecto está bajo la Licencia Apache 2.0. Revisa el [LICENSE](LICENSE) para más detalles.
