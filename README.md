@@ -39,7 +39,7 @@ Reemplaza `8499449` con el número de seguimiento real que deseas consultar.
 
 > Captura de pantalla de la aplicación en ejecución.
 
-<img src="_pics/usage.png" alt="Captura de pantalla de la aplicación en ejecución" width="600"/>
+<img src="_images/usage.png" alt="Captura de pantalla de la aplicación en ejecución" width="600"/>
 
 ## Estructura del proyecto
 
